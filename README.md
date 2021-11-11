@@ -1,2 +1,2 @@
 # LeetCode
-Daily LeetCode questions
+Finished questions
