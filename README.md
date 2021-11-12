@@ -1,8 +1,6 @@
-# LeetCode
-Finished questions:
 # Two Pointers
-  015 Three Sum
-  016 Three Sum Closest
+1. 015 Three Sum
+2. 016 Three Sum Closest
 # Greedy
-  455 Assign Candies
-  135 Candy
+1. 455 Assign Candies
+2. 135 Candy
