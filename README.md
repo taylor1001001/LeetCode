@@ -7,3 +7,4 @@
 3. 435	Non-overlapping Intervals
 4. 605	Can Place Flowers
 5. 452	Minimum Number of Arrows to Burst Balloons
+6. 763	Partition Labels
