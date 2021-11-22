@@ -1,6 +1,7 @@
 # Two Pointers
 1. 015 Three Sum
 2. 016 Three Sum Closest
+3. 167	Two Sum II - Input Array Is Sorted
 # Greedy
 1. 455 Assign Candies
 2. 135 Candy
