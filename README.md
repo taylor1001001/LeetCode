@@ -4,6 +4,7 @@
 3. 167	Two Sum II - Input Array Is Sorted
 4. 88	Merge Sorted Array
 5. 142	Linked List Cycle II
+6. 295 Find Median from Data Stream
 # Greedy
 1. 455 Assign Candies
 2. 135 Candy
