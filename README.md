@@ -17,3 +17,5 @@
 9. 665	Non-decreasing Array
 # Sliding Window
 1. 76	Minimum Window Substring
+# Dynamic Programming
+1. 416 Partition Equal Subset Sum
