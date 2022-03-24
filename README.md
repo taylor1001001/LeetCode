@@ -5,6 +5,7 @@
 4. 88	Merge Sorted Array
 5. 142	Linked List Cycle II
 6. 295 Find Median from Data Stream
+7. 881 Boats to Save People
 # Greedy
 1. 455 Assign Candies
 2. 135 Candy
