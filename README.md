@@ -21,3 +21,5 @@
 1. 76	Minimum Window Substring
 # Dynamic Programming
 1. 416 Partition Equal Subset Sum
+# Binary Search
+1. 81 Search in Rotated Sorted Array II
