@@ -23,6 +23,7 @@
 1. 76	Minimum Window Substring
 # Dynamic Programming
 1. 416 Partition Equal Subset Sum
+2. 72 Edit Distance
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
