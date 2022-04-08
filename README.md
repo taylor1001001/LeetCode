@@ -27,3 +27,5 @@
 # Binary Search
 1. 81 Search in Rotated Sorted Array II
 2. 74 Search a 2D Matrix
+# Heap
+1. 703 Kth Largest Element in a Stream
