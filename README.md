@@ -29,3 +29,5 @@
 2. 74 Search a 2D Matrix
 # Heap
 1. 703 Kth Largest Element in a Stream
+# SQL
+1. 595 Big Countries
