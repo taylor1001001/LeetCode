@@ -29,5 +29,6 @@
 2. 74 Search a 2D Matrix
 # Heap
 1. 703 Kth Largest Element in a Stream
+2. 347 Top K Frequent Elements
 # SQL
 1. 595 Big Countries
