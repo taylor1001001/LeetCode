@@ -36,5 +36,6 @@
 3. 584 Find Customer Referee
 4. 183 Customers Who Never Order
 5. 1873 Calculate Special Bonus
+6. 627 Swap Salary
 # Array
 1. 682 Baseball Game
