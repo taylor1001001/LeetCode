@@ -40,3 +40,4 @@
 7. 196 Delete Duplicate Emails
 # Array
 1. 682 Baseball Game
+2. 1260 Shift 2D Grid
